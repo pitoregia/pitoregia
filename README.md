@@ -1,8 +1,11 @@
-### Hello there 👋
 ### Mahesa Danuarta Here! ✨
 
 ---
-### A Web Developer by day ☼ and an Android Developer by night ☾
+### A Web Developer by day ☼ and an Mobile Developer by night ☾
 
-Front-End Developer at President University Student Union (PUSU);<br>
-Mobile Development Cohort at Bangkit Academy;<br>
+:<br>
+Internship as Mobile Developer;<br>
+Bangkit Academy Graduatee (Mobile Development);<br>
+
+:<br>
+Currently studying Flutter and JS framework.
