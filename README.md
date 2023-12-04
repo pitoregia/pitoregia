@@ -1,11 +1,8 @@
-### Hello there! ✨
-
 ---
-### A Web Developer by day ☼ and a Mobile Developer by night ☾
+### A Web and Mobile Developer Programmer
 
-:<br>
-Internship as Mobile Developer;<br>
-Bangkit Academy Graduatee - Mobile Development;<br>
-
-:<br>
-Currently studying Flutter and JS framework.
+experience {<br>
+&emsp;Internship as Software Engineer;<br>
+&emsp;Bangkit Academy Graduatee - Mobile Development;<br>
+}
+---
